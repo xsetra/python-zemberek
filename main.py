@@ -16,7 +16,7 @@ tr = Tr()
 zemberek = Zemberek(tr)
 
 yanit = zemberek.kelimeCozumle("futbolcularımız")
-print(yanit[a])
+print(yanit[0])
 
 # Stop JVM
 jpype.shutdownJVM()
